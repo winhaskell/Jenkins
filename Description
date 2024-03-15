@@ -1,0 +1,12 @@
+https://codehub.gr/courses/jenkins-ci-cd/
+
+Description  
+
+One of the most crucial procedures of every organization in need of DevOps adoption is the production pipeline. 
+Testing, installation, and deployment against a multitude of environments (development, QA, production, etc.) are additional
+requirements that increase the complexity of the integration problem. Continuous Integration software tools give us the
+ability to achieve these goals and ultimately with effective solutions. 
+
+Jenkins is one of the most popular open source Continuous Integration software tools in the market, 
+used by thousands of companies and millions of developers throughout the globe.
+
